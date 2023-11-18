@@ -1,0 +1,9 @@
+¿El resultado fue mejor o peor?
+R= Según las veces que lo intente es mejor por ya que en promedio da 0.67 score
+
+¿Por qué crees que es así?
+R=En el manejo de datos utilice np. log(x) que Calcula el logaritmo natural (base e ) de cada elemento en el arreglo x y puede ser beneficioso para manejar distribuciones. Esto podría mejorar la linealidad de los datos, lo cual ayuda para modelos de regresión lineal.
+Tambien se crearon nuevas  caracteristicas como 'bedroom_ratio' y 'households_room', que capturan relaciones entre datos, lo que podría mejorar la capacidad del modelo para representar la realidad de los datos.
+
+En resumen, el algoritmo incorpora transformaciones adicionales y realiza una evaluación más detallada, lo que podría conducir a un modelo más complejo y preciso en comparación con el algoritmo visto en clase. 
+
